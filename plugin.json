@@ -1,0 +1,13 @@
+{
+    "ID": "B33BC2ECD04D7FE6CD89612BD53541D9",
+    "ActionKeyword": "",
+    "IsGlobal": true,
+    "Name": "Everything",
+    "Author": "SCell555",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/SCell555/EverythingPT",
+    "IcoPathDark": "Images\\everything_logo.gif",
+    "IcoPathLight": "Images\\everything_logo.gif",
+    "ExecuteFileName": "Plugin.Everything.dll"
+}
